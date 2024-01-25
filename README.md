@@ -3,6 +3,10 @@
 
 The Omnifood website is a responsive web design project, crafted during a Udemy course, aimed at delivering a delightful user experience on computers, iPads, phones, and various screen sizes. The codebase reflects best practices in web development, incorporating responsive layouts and styling techniques using CSS.
 
+
+https://github.com/libbyyosef/Omnifood/assets/36642026/0f8fb1fd-307e-4dd5-8453-a91cbaacd8a4
+
+
 **Responsive Design**
 
 Ensuring a consistent and user-friendly interface across devices, the website employs responsive web design principles. The use of media queries in the CSS code facilitates the dynamic adaptation of content presentation based on the user's device.
